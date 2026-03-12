@@ -1,3 +1,5 @@
+""" 1017 - Gasto de Combustivel | Bernardo Soares  | Fabrica de Software """
+
 LITROS = 12
 
 def entrada():

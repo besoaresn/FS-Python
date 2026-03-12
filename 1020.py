@@ -1,3 +1,5 @@
+""" 1020 - Idade em dias | Bernardo Soares  | Fabrica de Software """
+
 ANO = 365
 MES = 30
 

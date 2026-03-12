@@ -1,3 +1,5 @@
+""" 1044 - Múltiplos | Bernardo Soares  | Fabrica de Software """
+
 def lerEntrada():
 
     a, b = input().split()

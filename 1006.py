@@ -1,3 +1,5 @@
+""" 1006 - Média 2 | Bernardo Soares  | Fabrica de Software """
+
 def entradaDados():
     A = float(input())
     B = float(input())

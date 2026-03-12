@@ -1,3 +1,5 @@
+""" 1001 - Extretamene básico | Bernardo Soares  | Fabrica de Software """
+
 def entrada():
     a = int(input())
     b = int(input())
